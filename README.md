@@ -1,16 +1,22 @@
-## Hi there 👋
+# Aaron Hind – Cybersecurity Portfolio
 
-<!--
-**aaronhind/aaronhind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-level SOC analyst focused on blue team operations, incident analysis, and SIEM labs.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Security Operations Center workflows
+- Log analysis & incident response
+- Linux security
+- Network monitoring
+- Threat detection
+- Cloud security fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- SOC SIEM lab (Wazuh)
+- SSH brute force detection
+- Network recon investigation
+- Incident reporting practice
+
+## Goal
+Seeking entry-level SOC or IT support role to grow within cybersecurity.
+
+Always learning. Always improving.
