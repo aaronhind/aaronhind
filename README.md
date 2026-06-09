@@ -1,4 +1,4 @@
-# Aaron Hind – Cybersecurity Portfolio
+# Velorum – Cybersecurity Portfolio
 
 Entry-level SOC analyst focused on blue team operations, incident analysis, and SIEM labs.
 
