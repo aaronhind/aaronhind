@@ -1,4 +1,4 @@
-# Velorum – Cybersecurity Portfolio
+# Noctis – Cybersecurity Portfolio
 
 Entry-level SOC analyst focused on blue team operations, incident analysis, and SIEM labs.
 
